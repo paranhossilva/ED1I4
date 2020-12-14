@@ -1,0 +1,9 @@
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\bin\Debug\Ex02.exe.config
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\bin\Debug\Ex02.exe
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\bin\Debug\Ex02.pdb
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\obj\Debug\Ex02.csprojAssemblyReference.cache
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\obj\Debug\Ex02.Frm_Main.resources
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\obj\Debug\Ex02.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\obj\Debug\Ex02.csproj.GenerateResource.cache
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\obj\Debug\Ex02.exe
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\Ex02\Ex02\obj\Debug\Ex02.pdb
