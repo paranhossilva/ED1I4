@@ -1,0 +1,9 @@
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\bin\Debug\Atividade 22-12-2020.exe.config
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\bin\Debug\Atividade 22-12-2020.exe
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\bin\Debug\Atividade 22-12-2020.pdb
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\obj\Debug\Atividade 22-12-2020.csprojAssemblyReference.cache
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\obj\Debug\Atividade_22_12_2020.Frm_Main.resources
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\obj\Debug\Atividade_22_12_2020.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\obj\Debug\Atividade 22-12-2020.csproj.GenerateResource.cache
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\obj\Debug\Atividade 22-12-2020.exe
+C:\Users\Bruno\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 22-12-2020\Atividade 22-12-2020\obj\Debug\Atividade 22-12-2020.pdb
